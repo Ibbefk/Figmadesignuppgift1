@@ -1,0 +1,33 @@
+﻿@model Figmadesign.Models.NewsletterSubscription
+
+<form asp-action="Subscribe" method="post">
+    <div>
+        <label for="email">Email:</label>
+        <input type="email" id="email" name="email" required />
+    </div>
+    <div>
+        <label for="daily-newsletter">Daily Newsletter:</label>
+        <input type="checkbox" id="daily-newsletter" name="DailyNewsletter" />
+    </div>
+    <div>
+        <label for="advertising-updates">Advertising Updates:</label>
+        <input type="checkbox" id="advertising-updates" name="AdvertisingUpdates" />
+    </div>
+    <div>
+        <label for="week-in-reviews">Week in Reviews:</label>
+        <input type="checkbox" id="week-in-reviews" name="WeekInReviews" />
+    </div>
+    <div>
+        <label for="event-updates">Event Updates:</label>
+        <input type="checkbox" id="event-updates" name="EventUpdates" />
+    </div>
+    <div>
+        <label for="startup-weekly">Startup Weekly:</label>
+        <input type="checkbox" id="startup-weekly" name="StartupWeekly" />
+    </div>
+    <div>
+        <label for="podcasts">Podcasts:</label>
+        <input type="checkbox" id="podcasts" name="Podcasts" />
+    </div>
+    <button type="submit">Subscribe</button>
+</form>

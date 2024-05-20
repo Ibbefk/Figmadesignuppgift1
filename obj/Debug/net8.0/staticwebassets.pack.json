@@ -1,0 +1,453 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\css\\account-details.css",
+      "PackagePath": "staticwebassets\\css\\account-details.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\css\\courses.css",
+      "PackagePath": "staticwebassets\\css\\courses.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\css\\sign-in.css",
+      "PackagePath": "staticwebassets\\css\\sign-in.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\css\\sign-up.css",
+      "PackagePath": "staticwebassets\\css\\sign-up.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\Benefitsfourlogo.svg",
+      "PackagePath": "staticwebassets\\images\\Benefitsfourlogo.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\Benefitsimg.svg",
+      "PackagePath": "staticwebassets\\images\\Benefitsimg.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\Icon1.svg",
+      "PackagePath": "staticwebassets\\images\\Icon1.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\appimg.svg",
+      "PackagePath": "staticwebassets\\images\\appimg.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\appstoreimg.svg",
+      "PackagePath": "staticwebassets\\images\\appstoreimg.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\arrowright.svg",
+      "PackagePath": "staticwebassets\\images\\arrowright.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\black-laptop.svg",
+      "PackagePath": "staticwebassets\\images\\black-laptop.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\contenticon.svg",
+      "PackagePath": "staticwebassets\\images\\contenticon.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\contentimg.svg",
+      "PackagePath": "staticwebassets\\images\\contentimg.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesbanner.svg",
+      "PackagePath": "staticwebassets\\images\\coursesbanner.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg1.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg1.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg2.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg2.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg3.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg3.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg4.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg4.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg5.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg5.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg6.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg6.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg7.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg7.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg8.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg8.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\coursesimg9.svg",
+      "PackagePath": "staticwebassets\\images\\coursesimg9.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\email.svg",
+      "PackagePath": "staticwebassets\\images\\email.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\facebook.svg",
+      "PackagePath": "staticwebassets\\images\\facebook.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\googleplayimg.svg",
+      "PackagePath": "staticwebassets\\images\\googleplayimg.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\instagram.svg",
+      "PackagePath": "staticwebassets\\images\\instagram.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\lighttoggle.svg",
+      "PackagePath": "staticwebassets\\images\\lighttoggle.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\macbook.svg",
+      "PackagePath": "staticwebassets\\images\\macbook.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\searchicon.svg",
+      "PackagePath": "staticwebassets\\images\\searchicon.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\signin1.svg",
+      "PackagePath": "staticwebassets\\images\\signin1.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\signup1.svg",
+      "PackagePath": "staticwebassets\\images\\signup1.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\swosh.svg",
+      "PackagePath": "staticwebassets\\images\\swosh.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\thumbsupcourses.svg",
+      "PackagePath": "staticwebassets\\images\\thumbsupcourses.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\timecourses.svg",
+      "PackagePath": "staticwebassets\\images\\timecourses.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools1.svg",
+      "PackagePath": "staticwebassets\\images\\tools1.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools2.svg",
+      "PackagePath": "staticwebassets\\images\\tools2.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools3.svg",
+      "PackagePath": "staticwebassets\\images\\tools3.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools4.svg",
+      "PackagePath": "staticwebassets\\images\\tools4.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools5.svg",
+      "PackagePath": "staticwebassets\\images\\tools5.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools6.svg",
+      "PackagePath": "staticwebassets\\images\\tools6.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools7.svg",
+      "PackagePath": "staticwebassets\\images\\tools7.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\tools8.svg",
+      "PackagePath": "staticwebassets\\images\\tools8.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\twitter.svg",
+      "PackagePath": "staticwebassets\\images\\twitter.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\white-laptop.svg",
+      "PackagePath": "staticwebassets\\images\\white-laptop.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\ylwstars.svg",
+      "PackagePath": "staticwebassets\\images\\ylwstars.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\images\\youtube.svg",
+      "PackagePath": "staticwebassets\\images\\youtube.svg"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\js\\subscribeform.js",
+      "PackagePath": "staticwebassets\\js\\subscribeform.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Project\\Figmadesign\\Figmadesign\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Figmadesign.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Figmadesign.props",
+      "PackagePath": "build\\Figmadesign.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Figmadesign.props",
+      "PackagePath": "buildMultiTargeting\\Figmadesign.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Figmadesign.props",
+      "PackagePath": "buildTransitive\\Figmadesign.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

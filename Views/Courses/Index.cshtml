@@ -1,0 +1,155 @@
+﻿@model List<Figmadesign.Models.Course>
+
+@{
+    ViewData["Title"] = "Courses";
+    Layout = "_Layout";
+}
+
+@section Styles {
+    <link rel="stylesheet" href="~/css/courses.css" />
+}
+
+<div class="container">
+    <div class="breadcrumb">
+        <span>Home &gt;&gt;</span> <a href="/Courses">Courses</a>
+    </div>
+
+    <div class="courses-header">
+        <h1>Courses</h1>
+        <div class="filter-search">
+            <select>
+                <option>All categories</option>
+                <!-- Lägg till fler kategorier här -->
+            </select>
+            <div class="search-box">
+                <input type="text" placeholder="Search courses">
+                <img src="~/images/searchicon.svg" alt="Search Icon" />
+            </div>
+        </div>
+    </div>
+
+    <!-- First Row of Course Boxes -->
+    <div class="courses-list">
+        <div class="course-box">
+            <img src="~/images/coursesimg1.svg" alt="Course Image" />
+            <h2>Fullstack Web Developer Course from Scratch</h2>
+            <p>By Robert Fox</p>
+            <p class="price">$12.50</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />220 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" /> 94% (4.2K)</span>
+            </div>
+        </div>
+        <div class="course-box">
+            <img src="~/images/coursesimg2.svg" alt="Course Image" />
+            <h2>HTML, CSS, JavaScript Web Developer</h2>
+            <p>By Jenny Wilson & Marvin McKinney</p>
+            <p class="price">$15.99</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />160 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />92% (3.1K)</span>
+            </div>
+        </div>
+        <div class="course-box">
+            <img src="~/images/coursesimg3.svg" alt="Course Image" />
+            <h2>The Complete Front-End Web Development Course</h2>
+            <p>By Albert Flores</p>
+            <p class="price">$9.99</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />100 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />98% (2.7K)</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Second Row of Course Boxes -->
+    <div class="courses-list">
+        <div class="course-box">
+            <img src="~/images/coursesimg4.svg" alt="Course Image" />
+            <h2>iOS & Swift - The Complete iOS App Development Course</h2>
+            <p>By Marvin McKinney</p>
+            <p class="price">$15.99</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />160 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />92% (3.1K)</span>
+            </div>
+        </div>
+        <div class="course-box">
+            <img src="~/images/coursesimg5.svg" alt="Course Image" />
+            <h2>Data Science & Machine Learning with Python</h2>
+            <p>By Esther Howard</p>
+            <p class="price">$11.20</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />220 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />94% (4.2K)</span>
+            </div>
+        </div>
+        <div class="course-box">
+            <img src="~/images/coursesimg6.svg" alt="Course Image" />
+            <h2>Creative CSS Drawing Course: Make Art With CSS</h2>
+            <p>By Robert Fox</p>
+            <p class="price">$10.50</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />220 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />94% (4.2K)</span>
+            </div>
+        </div>
+    </div>
+
+    <!-- Third Row of Course Boxes -->
+    <div class="courses-list">
+        <div class="course-box">
+            <img src="~/images/coursesimg7.svg" alt="Course Image" />
+            <h2>Blender Character Creator v2.0 for Video Games Design</h2>
+            <p>By Ralph Edwards</p>
+            <p class="price">$18.99</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />160 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />92% (3.1K)</span>
+            </div>
+        </div>
+        <div class="course-box">
+            <img src="~/images/coursesimg8.svg" alt="Course Image" />
+            <h2>The Ultimate Guide to 2D Mobile Game Development with Unity</h2>
+            <p>By Albert Flores</p>
+            <p class="price">$12.99</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />100 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />98% (2.7K)</span>
+            </div>
+        </div>
+        <div class="course-box">
+            <img src="~/images/coursesimg9.svg" alt="Course Image" />
+            <h2>Learn JMETER from Scratch on Live Apps-Performance Testing</h2>
+            <p>By Jenny Wilson</p>
+            <p class="price">$14.50</p>
+            <hr class="course-divider" />
+            <div class="course-meta">
+                <span class="icon"><img src="~/images/timecourses.svg" alt="Icon" />160 hours</span>
+                <span class="icon"><img src="~/images/thumbsupcourses.svg" alt="Icon" />92% (3.1K)</span>
+            </div>
+        </div>
+    </div>
+
+    <div class="pagination">
+        <a href="#">&#60;</a>
+        <a href="#">1</a>
+        <a href="#">2</a>
+        <a href="#" class="active">3</a>
+        <a href="#">4</a>
+        <a href="#">&#62;</a>
+    </div>
+
+    <!-- Footer Image -->
+    <div class="footer-image">
+        <img src="~/images/coursesbanner.svg" alt="Footer Image" />
+    </div>
+</div>

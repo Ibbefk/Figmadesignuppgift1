@@ -1,0 +1,94 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - My ASP.NET Application</title>
+    <link rel="stylesheet" href="~/css/StyleSheet.css" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;800&display=swap">
+    @RenderSection("Styles", required: false)
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="header-container">
+            <div class="header-section">
+                <div class="left">
+                    <div class="logo">
+                        <img src="~/images/Icon1.svg" alt="Logo" />
+                    </div>
+                    <nav class="main-nav">
+                        <a href="/#overview">Overview</a>
+                        <a href="/#features">Features</a>
+                        <a href="/Courses">Courses</a>
+                        <a href="/#contact">Contact</a>
+                    </nav>
+                </div>
+                <div class="right">
+                    <div class="theme-toggle">
+                        <span>Light</span>
+                        <input type="checkbox" id="theme-toggle" class="toggle-input">
+                        <label for="theme-toggle" class="toggle-label"></label>
+                        <span>Dark</span>
+                    </div>
+                    <div class="auth-buttons">
+                        @if (User.Identity?.IsAuthenticated ?? false)
+                        {
+                            <a asp-controller="Account" asp-action="Details" class="button my-profile">
+                                My Profile
+                            </a>
+                            <form asp-controller="Account" asp-action="Logout" method="post" class="logout-form">
+                                <button type="submit" class="button logout">Logout</button>
+                            </form>
+                        }
+                        else
+                        {
+                            <a asp-controller="Account" asp-action="SignIn" class="button sign-in">
+                                <img src="~/images/signin1.svg" alt="Sign In Icon" />
+                                Sign In
+                            </a>
+                            <a asp-controller="Account" asp-action="SignUp" class="button sign-up">
+                                <img src="~/images/signup1.svg" alt="Sign Up Icon" />
+                                Sign Up
+                            </a>
+                        }
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content Section -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="footer-container">
+            <div class="footer-icons">
+                <a href="https://www.facebook.com" target="_blank">
+                    <img src="~/images/facebook.svg" alt="Facebook Icon">
+                </a>
+                <a href="https://www.twitter.com" target="_blank">
+                    <img src="~/images/twitter.svg" alt="Twitter Icon">
+                </a>
+                <a href="https://www.instagram.com" target="_blank">
+                    <img src="~/images/instagram.svg" alt="Instagram Icon">
+                </a>
+                <a href="https://www.youtube.com" target="_blank">
+                    <img src="~/images/youtube.svg" alt="YouTube Icon">
+                </a>
+            </div>
+            <p class="footer-text">© 2024 Silicon. All rights reserved. Pulvinar urna condimentum amet tempor, ornare integer. Lorem odio justo malesuada suspendisse viverra aliquet quisque turpis non. Feugiat in odio non nunc ornare consectetur.</p>
+        </div>
+    </footer>
+    @RenderSection("Scripts", required: false)
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery/jquery-3.5.1.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate/1.19.2/jquery.validate.min.js"></script>
+    <script src="https://ajax.aspnetcdn.com/ajax/jquery.validate.unobtrusive/3.2.12/jquery.validate.unobtrusive.min.js"></script>
+    <script src="~/js/site.js"></script>
+</body>
+</html>
